@@ -69,12 +69,16 @@ stack-data==0.6.3
 streamlit==1.35.0
 sympy==1.12.1
 tenacity==8.4.1
+tokenizers==0.19.1
 toml==0.10.2
 toolz==0.12.1
 torch==2.3.1
+torchaudio==2.3.1
+torchvision==0.18.1
 tornado==6.4.1
 tqdm==4.66.4
 traitlets==5.14.3
+transformers==4.41.2
 typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
